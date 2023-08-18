@@ -1,22 +1,20 @@
 {
-  "datetime": IDK,
-  "filename": "PixelExperience_Plus",
-  "id": "YES",
-  "size": YES,
-  "url": "YES",
-  "version": "thirteen_plus",
-  "filehash": "YES",
-  "maintainers": [
-    {
-      "name": "TE",
-      "github_username": "TE",
-      "versions": [
-        "thirteen_plus"
-      ]
-    }
-  ],
-  "error": false,
-  "donate_url": "TES",
-  "website_url": "YES",
-  "news_url": "TEs"
+    "error": false,
+    "maintainers": [
+        {
+            "main_maintainer": false,
+            "github_username": "YES",
+            "name": "YES"
+        }
+    ],
+    "donate_url": "YES",
+    "website_url": "YES",
+    "news_url": "YES",
+    "datetime": "YES",
+    "filename": "YES",
+    "id": "YES",
+    "size": "YES",
+    "url": "YES",
+    "version": "YES",
+    "filehash": "YES"
 }
