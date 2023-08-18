@@ -3,18 +3,18 @@
     "maintainers": [
         {
             "main_maintainer": false,
-            "github_username": "YES",
-            "name": "YES"
+            "github_username": "Vlad55432",
+            "name": "Vlad"
         }
     ],
-    "donate_url": "YES",
-    "website_url": "YES",
-    "news_url": "YES",
-    "datetime": "YES",
-    "filename": "YES",
-    "id": "YES",
-    "size": "YES",
-    "url": "YES",
-    "version": "YES",
-    "filehash": "YES"
+    "donate_url": "https://paypal.me/bengris32",
+    "website_url": "https://github.com/Vlad55432/releases",
+    "news_url": "https://t.me/Realme8AOSP",
+    "datetime": "1692358725",
+    "filename": "PixelExperience_Plus_nashc-13.0-20230818-1138-UNOFFICIAL.zip",
+    "id": "258e0fe9c3201e6d950c3a765d92e4feef262a641ccf5ded4999aba5eff5192d",
+    "size": "1638234301",
+    "url": "https://github.com/Vlad55432/releases/releases/download/pe-13.0-20230818-1138/PixelExperience_Plus_nashc-13.0-20230818-1138-UNOFFICIAL.zip",
+    "version": "thirten_plus",
+    "filehash": "a2ca27f29e2f57f83641172537129a3d"
 }
