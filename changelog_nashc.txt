@@ -1,10 +1,3 @@
-Additions
- Doze for ram
- Less response time
- Some optimizations for interface
+Sorry for long time delay, school
 Changes
  Updated android security patch
- Reduce screenshot dismiss delay to 3 seconds
- Switch to OSS Audio 
- Udfps black dim fixed (same brightness, when not scanning fod)
- 
